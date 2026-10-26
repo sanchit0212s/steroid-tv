@@ -1,0 +1,9 @@
+# build output and per-machine state
+launcher/out/
+launcher/assets/config/
+launcher/assets/windows/
+backup/
+.tv-serial
+.DS_Store
+*.apk
+*.idsig

@@ -1,0 +1,107 @@
+{
+  "_comment": "Imported from CLI AMP: Omarchy Radio.toml",
+  "stations": [
+    {
+      "title": "Lofi",
+      "url": "https://radio.cliamp.stream/lofi/stream",
+      "genre": "radio",
+      "color": "#E8915A"
+    },
+    {
+      "title": "Kalizo — Lo-Fi",
+      "url": "https://streams.dez.ovh/listen/chillofi/radio.mp3",
+      "genre": "Lofi, Jazz, Chill",
+      "color": "#E8915A"
+    },
+    {
+      "title": "Lofi — Laut.fm",
+      "url": "https://lofi.stream.laut.fm/lofi",
+      "genre": "Chill, Sleepy, Lofi, Study, Chillout",
+      "color": "#E8915A"
+    },
+    {
+      "title": "Chilled Beats — Lo-Fi",
+      "url": "https://chilled-beats.stream.laut.fm/chilled-beats",
+      "genre": "Chill, Chillout, Lo-Fi, Electronic",
+      "color": "#E8915A"
+    },
+    {
+      "title": "Meditative",
+      "url": "https://radio.cliamp.stream/meditative/stream",
+      "genre": "radio",
+      "color": "#8FB8A8"
+    },
+    {
+      "title": "Groove Salad",
+      "url": "https://ice6.somafm.com/groovesalad-256-mp3",
+      "genre": "ambient · electronic",
+      "color": "#5F7FB8"
+    },
+    {
+      "title": "Groove Salad Classic",
+      "url": "https://ice6.somafm.com/gsclassic-128-mp3",
+      "genre": "ambient · electronic",
+      "color": "#5F7FB8"
+    },
+    {
+      "title": "Drone Zone",
+      "url": "https://ice6.somafm.com/dronezone-256-mp3",
+      "genre": "ambient",
+      "color": "#8FB8A8"
+    },
+    {
+      "title": "Deep Space One",
+      "url": "https://ice6.somafm.com/deepspaceone-128-mp3",
+      "genre": "ambient",
+      "color": "#5F7FB8"
+    },
+    {
+      "title": "Space Station Soma",
+      "url": "https://ice6.somafm.com/spacestation-320-mp3",
+      "genre": "electronic",
+      "color": "#5F7FB8"
+    },
+    {
+      "title": "Synphaera Radio",
+      "url": "https://ice6.somafm.com/synphaera-256-mp3",
+      "genre": "ambient · electronic",
+      "color": "#5F7FB8"
+    },
+    {
+      "title": "Omarchy",
+      "url": "https://radio.cliamp.stream/omarchy/stream",
+      "genre": "radio",
+      "color": "#8A6CE0"
+    },
+    {
+      "title": "Synthwave",
+      "url": "https://radio.cliamp.stream/synthwave/stream",
+      "genre": "radio",
+      "color": "#FF4FA3"
+    },
+    {
+      "title": "EDM",
+      "url": "https://radio.cliamp.stream/edm/stream",
+      "genre": "radio",
+      "color": "#39D0FF"
+    },
+    {
+      "title": "Chiptunes",
+      "url": "https://radio.cliamp.stream/chiptune/stream",
+      "genre": "radio",
+      "color": "#9BE15D"
+    },
+    {
+      "title": "Amiga",
+      "url": "https://radio.cliamp.stream/amiga/stream",
+      "genre": "radio",
+      "color": "#9BE15D"
+    },
+    {
+      "title": "Bollywood — radioBollyFM",
+      "url": "https://antares.dribbcast.com/proxy/radiobolly/stream.mp3",
+      "genre": "Bollywood, Hindi",
+      "color": "#FF7A2F"
+    }
+  ]
+}
